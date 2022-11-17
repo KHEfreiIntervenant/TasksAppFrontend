@@ -1,0 +1,30 @@
+.list {
+  text-align: left;
+  max-width: 750px;
+  margin: auto;
+}
+
+.edit-link{
+  background-color: blue;
+  border-radius: 4px;
+  border:none;
+  margin-right: 4px;
+}
+.edit-link >a {
+  color: #fff;
+  text-decoration: none;
+}
+.badge-danger{
+  background-color: crimson;
+}
+.badge-success{background-color: green;}
+.badge-primary{background-color: blue;}
+.submit-form {
+  max-width: 300px;
+  margin: auto;
+}
+
+.edit-form {
+  max-width: 300px;
+  margin: auto;
+}
